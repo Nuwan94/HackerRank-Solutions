@@ -9,7 +9,7 @@ These are the solution I have submitted for the HackerRank practice problems and
     <li>
       <details>
         <summary>Algorithms</summary>
-        <ul><li>Implementation</li></ul>
+        <ul><li><a href="https://github.com/Nuwan94/HackerRank-Solutions/tree/master/10%20Days%20of%20Statistics">Implementation</a></li></ul>
        </details>
     </li>
     <li>Data Structures</li>
